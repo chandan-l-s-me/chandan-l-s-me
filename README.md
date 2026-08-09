@@ -48,34 +48,68 @@
 
 ## 🗂️ Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/chandan-l-s-me/KVStore">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-l-s-me&repo=KVStore&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/chandan-l-s-me/Yet_Another_kafka">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-l-s-me&repo=Yet_Another_kafka&theme=default&hide_border=true" />
-</a>
+### 🗄️ [KVStore](https://github.com/chandan-l-s-me/KVStore)
+![C++](https://img.shields.io/badge/-C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<a href="https://github.com/chandan-l-s-me/ai-powered-job-skill-recommender">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-l-s-me&repo=ai-powered-job-skill-recommender&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/chandan-l-s-me/VyaparaBilling">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-l-s-me&repo=VyaparaBilling&theme=default&hide_border=true" />
-</a>
+Bitcask-inspired persistent KV storage engine — WAL, sparse index, bloom filter, multithreaded TCP server.
 
-<a href="https://github.com/chandan-l-s-me/Finsphere">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-l-s-me&repo=Finsphere&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/chandan-l-s-me/ReleaseMind">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chandan-l-s-me&repo=ReleaseMind&theme=default&hide_border=true" />
-</a>
+`⚡ 53.7K ops/sec · 4.54ms p99 · 0 errors / 1.5M+ ops`
 
-</div>
+</td>
+<td width="50%">
 
-> 💡 **KVStore** — 53.7K ops/sec, 4.54ms p99, zero errors over 1.5M+ YCSB ops
-> 💡 **VyaparaBilling** — cut checkout billing latency by 50%
-> 💡 **Job Recommender** — published at SMARTGENCON 2025
+### 📨 [Yet_Another_kafka](https://github.com/chandan-l-s-me/Yet_Another_kafka)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Kafka-inspired distributed broker with leader election, sync replication, and automatic failover.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [AI Job & Skill Recommender](https://github.com/chandan-l-s-me/ai-powered-job-skill-recommender)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Semantic resume-to-job matching using dense vector embeddings; skill-gap analysis via Gradio.
+
+`📄 Published — SMARTGENCON 2025`
+
+</td>
+<td width="50%">
+
+### 🧾 [VyaparaBilling](https://github.com/chandan-l-s-me/VyaparaBilling)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+Offline-first GST billing & inventory system with localized language support.
+
+`⚡ 50% faster checkout billing`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 [Finsphere](https://github.com/chandan-l-s-me/Finsphere)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+AI-powered personal finance platform — transaction parsing, credit scoring, PDF reports.
+
+</td>
+<td width="50%">
+
+### 🚦 [ReleaseMind](https://github.com/chandan-l-s-me/ReleaseMind)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+Multi-agent CI/CD intelligence layer — risk prediction and test optimization.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -98,20 +132,7 @@
 
 <br>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chandan-l-s-me&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-l-s-me&layout=compact&theme=default&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-l-s-me&theme=default&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
 
 ### 🚀 Open to backend, infra & systems engineering roles
 
